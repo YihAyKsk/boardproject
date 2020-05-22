@@ -4,4 +4,5 @@
 __pycache__
 env01
 db.sqlite3
+/static
 .DS_Store
